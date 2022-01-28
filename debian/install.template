@@ -1,0 +1,5 @@
+nvidia-current.ko			lib/modules/#KVERS#/nvidia/
+nvidia-current-modeset.ko		lib/modules/#KVERS#/nvidia/
+nvidia-current-drm.ko			lib/modules/#KVERS#/nvidia/
+nvidia-current-peermem.ko		lib/modules/#KVERS#/nvidia/
+nvidia-current-uvm.ko	lib/modules/#KVERS#/nvidia/
